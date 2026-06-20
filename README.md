@@ -47,19 +47,19 @@ This project takes a personal finance dataset (date, category, amount) and uses 
 ## Screenshots
 
 ### Spending by Category
-![Category Spending](screenshots/category_spending.png)
+![Spending by Category](screenshots/total_spending_by_category.png)
 
 ### Monthly Spending Trend
-![Monthly Trend](screenshots/monthly_trend.png)
+![Monthly Spending Trend](screenshots/monthly_spending_trend.png)
 
 ### Elbow Method
 ![Elbow Method](screenshots/elbow_method.png)
 
-### Cluster Visualization (PCA)
+### PCA Clusters
 ![PCA Clusters](screenshots/pca_clusters.png)
 
-### Average Spending per Category by Cluster
-![Cluster Comparison](screenshots/cluster_comparison.png)
+### Average Spending Per Cluster
+![Average Spending Per Cluster](screenshots/average_spending_per_cluster.png)
 
 ---
 
